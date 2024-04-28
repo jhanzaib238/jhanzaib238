@@ -25,13 +25,13 @@
 
 📓 I’m currently learning LLM's and Genrative AI... 😭
 
-📧 hammadn788@gmail.com
+📧 jahanzaibtariq15@gmail.com
 
-🎨 Portfolio: https://hammad-air.github.io/hammad/
+🎨 Portfolio: https://
 
-💼 LinkedIn: https://www.linkedin.com/in/hammad-nadeem-6673981b5/
+💼 LinkedIn: https://
 
-📷 Instagram : https://www.instagram.com/hammad2980/
+📷 Instagram : https://
  
 <h2>Tech Stack</h2>
 
